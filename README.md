@@ -1,4 +1,5 @@
-## DynamicProxyDemoCreating Clients using the Dynamic Proxy API in Java
+## Dynamic Proxy Demo - Creating Clients using the Dynamic Proxy API in Java
+(Content below also at : https://medium.com/@writ_in_water/creating-clients-using-the-dynamic-proxy-api-in-java-5808d8ba201a
 
 If you're familiar with the Proxy Pattern, you appreciate it's helpfulness in allowing you to perform actions through a Proxy Object. Say you want to check how many times a method was invoked. Or you might want to perform some basic checks before you allow a method on an object to be invoked. 
 
